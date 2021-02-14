@@ -5,7 +5,6 @@ Antes que nada, muchas gracias por entrar a mi sitio web. En este, iré posteand
 Cabe destacar que estamos viviendo tiempos de adaptación a las nuevas condiciones, por lo que es de vital relevancia hacer uso de las tecnologías que tenemos a nuestro alcance para procurar llevar un estilo de vida "lo mas apegado a lo presencial". 
 
 Por lo anterior, nos vemos en la necesidad de utilizar diferentes plataformas para poder reunirnos de manera virtual y realizar las actividades como si estuviéramos presencialmente en nuestras instalaciones educativas.
-
 En este semestre de febrero a junio de 2021, tendré el gusto de trabajar con mis alumnos del 4toC y 6toD del turno vespertino, respetando los horarios indicados en el sitio web del [CETiS Nro.32 | Horarios](http://cetis32.edu.mx/Horarios.html). Por lo que les agradecería entren a la [sesión](https://meet.google.com/jpc-tcsx-mhp) en su horario correspondiente el día lunes 15 de febrero para acordar la forma de trabajo y ver la presentanción e introducción a este nuevo semestre.
 
 ## Cisco ITEssentials
