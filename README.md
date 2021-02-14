@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Bienvenid@ al blog personal del Profesor Gerardo Galileo Reyes
 
-You can use the [editor on GitHub](https://github.com/Profr-Gerhard/profr-gerhard.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Antes que nada, muchas gracias por entrar a mi sitio web. En este, iré posteando mensajes de interés para mis alumnos del [CETiS Nro.32](http://cetis32.edu.mx).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cabe destacar que estamos viviendo tiempos de adaptación a las nuevas condiciones, por lo que es de vital relevancia hacer uso de las tecnologías que tenemos a nuestro alcance para procurar llevar un estilo de vida "lo mas apegado a lo presencial". 
 
-### Markdown
+Por lo anterior, nos vemos en la necesidad de utilizar diferentes plataformas para poder reunirnos de manera virtual y realizar las actividades como si estuviéramos presencialmente en nuestras instalaciones educativas. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En este semestre febrero - junio de 2021, tendré el gusto de trabajar con mis alumnos del 4toC y 6toD del turno vespertino, respetando los horarios indicados en el sitio web del [CETiS Nro.32 | Horarios](http://cetis32.edu.mx/Horarios.html). Por lo que les agradecería entren a la [sesión](https://meet.google.com/jpc-tcsx-mhp) en su horario correspondiente el día lunes 15 de febrero para acordar la forma de trabajo y ver la presentanción e introducción a este nuevo semestre.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Cisco ITEssentials
 
-- Bulleted
-- List
+Para este semestre, con mis alumnos de Soporte y Mantenimiento a Equipos de Cómputo, trabajaremos en la plataforma [Netacad | Cisco ITEssentials](https://www.netacad.com) con la cuenta con la que has venido trabajando en la plataforma. Si se tuviera algún percance para ingresar a dicha plataforma, el día lunes 15 de febrero va a ser buen momento para externarlo y solventar la problemática, por lo que será de gran importancia acceder en tiempo y forma para evitar retrasos en tus actividades.
 
-1. Numbered
-2. List
+### Ayuda o contacto
 
-**Bold** and _Italic_ and `Code` text
+Si se presentaran dudas o quisiéras ponerte en contacto conmigo, lo puedes hacer a la siguiente cuenta institucional gerardogalileo.reyes.ce32@dgeti.sems.gob.mx indicando tu nombre completo, grado y grupo al cuál perteneces y tu comentario de la manera más clara posible.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Profr-Gerhard/profr-gerhard.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sin mas por el momento, me despido, no sin antes desearte un excelente comienzo de cursos y recordándote que no es momento de bajar la guardia, por lo que tenemos que seguir cuidándonos y cuidando a nuestros seres queridos.
