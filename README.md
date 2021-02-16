@@ -1,23 +1,36 @@
-## Bienvenid@ al blog personal del Profesor Gerardo Galileo Reyes
+# Jekyll-Uno with Projects as Timeline
+A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
-Antes que nada, muchas gracias por entrar a mi sitio web. En este, iré posteando mensajes de interés para mis alumnos del [CETiS Nro.32](http://cetis32.edu.mx).
+## How does is look
+[Demo](http://thomas.zuehlke.family/)
+![Screenshot](screenshot-overview.png)
+![jekyll-theme-desktop](https://user-images.githubusercontent.com/32843441/72224870-5451ff00-357f-11ea-8fc2-bfbd4499bc63.gif)
+![jekyll-theme-mobil](https://user-images.githubusercontent.com/32843441/72224877-6a5fbf80-357f-11ea-920b-dfae72bf2fbe.gif)
 
-Cabe destacar que estamos viviendo tiempos de adaptación a las nuevas condiciones, por lo que es de vital relevancia hacer uso de las tecnologías que tenemos a nuestro alcance para procurar llevar un estilo de vida "lo mas apegado a lo presencial". 
+## Installation/Setup
+1. Download or clone repo `git clone https://github.com/tzuehlke/jekyll-uno-timeline.git`
+2. Enter the folder: `cd jekyll-uno-timeline/`
+3. Build it: `jekyll build`
+4. Start Jekyll server: `jekyll serve`
+5. Configure: `_config.yml`
+   * at least set `font_awesome` or download and add the font in `head.html`
 
-Por lo anterior, nos vemos en la necesidad de utilizar diferentes plataformas para poder reunirnos de manera virtual y realizar las actividades como si estuviéramos presencialmente en nuestras instalaciones educativas.
+Access via: [http://localhost:4000/](http://localhost:4000/)
 
-En este semestre de febrero a junio de 2021, tendré el gusto de trabajar con mis alumnos del 4toC y 6toD del turno vespertino, respetando los horarios indicados en el sitio web del [CETiS Nro.32 Horarios](http://cetis32.edu.mx/Horarios.html). Por lo que les agradecería entren a la [sesión](https://meet.google.com/jpc-tcsx-mhp) en su horario correspondiente el día lunes 15 de febrero para acordar la forma de trabajo y ver la presentanción e introducción a este nuevo semestre.
-
-## Cisco ITEssentials
-
-Para este semestre, con mis alumnos de Soporte y Mantenimiento a Equipos de Cómputo, trabajaremos en la plataforma [Netacad Cisco ITEssentials](https://www.netacad.com) con la cuenta con la que has venido trabajando en la plataforma. Si se tuviera algún percance para ingresar a dicha plataforma, el día lunes 15 de febrero va a ser buen momento para externarlo y solventar la problemática, por lo que será de gran importancia acceder en tiempo y forma para evitar retrasos en tus actividades.
-
-## Formulario de Encuesta Inicial
-
-La forma de trabajo se determinará en base a las posibilidades de los alumnos, por lo que será de gran importancia participar llenando el [cuestionario](https://forms.gle/v1kpZ9D2w93NHQuBA).
-
-## Ayuda o contacto
-
-Si se presentaran dudas o quisiéras ponerte en contacto conmigo, lo puedes hacer a la siguiente cuenta institucional gerardogalileo.reyes.ce32@dgeti.sems.gob.mx indicando tu nombre completo, grado y grupo al cuál perteneces y tu comentario de la manera más clara posible.
-
-Sin mas por el momento, me despido, no sin antes desearte un excelente comienzo de cursos y recordándote que no es momento de bajar la guardia, por lo que tenemos que seguir cuidándonos y cuidando a nuestros seres queridos.
+## Details/Features/Changes
+* based on the [Uno-Theme](https://github.com/joshgerdes/jekyll-uno), but:
+  * removed everything with posts
+  * `content-wrapper` can be shown or hidden with button
+  * changed all icons to [Font-Awesome](https://fontawesome.com/)
+  * updated google-analytics snipped
+  * added [Meetup-Link](https://www.meetup.com/)
+  * removed RSS
+  * removed Disqus
+  * using a Timeline-Design instead of posts, therefore no pagination anymore
+* using Timeline ([CSS](https://github.com/le4ker/personal-jekyll-theme/blob/master/css/timeline.scss), [HTML](https://github.com/le4ker/personal-jekyll-theme/blob/master/_includes/timeline.html) ) from [{ Personal } Jekyll Theme](https://github.com/le4ker/personal-jekyll-theme) for a list of projects, but:
+  * still with 3 layouts for different screen-width, but without images on small screens
+  * timeline information source is now `_data/projects.yaml`
+  * always using the `timeline-inverted`-class, for text on the right side of the images
+* using [github_api.js](https://github.com/jarrekk/Jalpc/blob/master/static/js/github_api.js) from [Jalpc.](https://github.com/jarrekk/Jalpc), but:
+  * changed the GitHub-URL for using with persons and organisations
+  * added watchers number
